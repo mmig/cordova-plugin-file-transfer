@@ -171,7 +171,7 @@ A `FileUploadResult` object is passed to the success callback of the
 - __response__: The HTTP response returned by the server. (DOMString)
 
 - __headers__: The HTTP response headers by the server. (Object)
-  - Currently supported on iOS only.
+  - Currently supported on iOS and Android only.
 
 ### iOS Quirks
 
